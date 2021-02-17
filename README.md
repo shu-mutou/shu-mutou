@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<img src="https://shu-mutou.github.io/img/QR_shu-mutou.github.io_icon.png" width=250>
+<img src="https://shu-mutou.github.io/img/CKA.png" width=250>
+<img src="https://shu-mutou.github.io/img/CKAD.png" width=250>
 <!--
 **shu-mutou/shu-mutou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
